@@ -27,7 +27,7 @@ Skills
 	* Git
 	* Bootstrap
 	* Photoshop
-  * 3D programs
+ 	* 3D programs
 
 Code Example
 ------------
