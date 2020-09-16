@@ -1,3 +1,3 @@
-# rsschool-cv
+# cv-start-cv
 
-[CV](https://MishynPavel.github.io/rsschool-cv/cv)
+[CV](https://MishynPavel.github.io/cv-start/cv)
